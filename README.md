@@ -1,2 +1,0 @@
-# movegen-privacy
-MoveGen-Privacy
